@@ -45,5 +45,5 @@ The project utilizes two datasets:
 
 1. **Clone the repository:**
    ```bash
-   git clone [repository_url]
-   cd [repository_directory]
+   git clone https://github.com/AshutoshPapnoi794/Machine-learning
+   cd Machine-learning
