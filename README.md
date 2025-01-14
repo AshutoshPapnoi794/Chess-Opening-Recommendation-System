@@ -1,6 +1,6 @@
 # Chess Opening Recommendation System
 
-## Overview:
+## Overview
 
 This project implements a chess opening recommendation system using machine learning techniques and leverages the Stockfish chess engine for advanced analysis. The system analyzes chess game data to suggest optimal openings for a given player and provides insights into game performance, including blunder detection and accuracy calculation.
 
